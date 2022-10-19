@@ -13,7 +13,7 @@
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US" 
@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : none
 facebook:
-  username               : sauleh.eetemadi
+  username               : none
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -112,11 +112,11 @@ author:
   bio              : I am a CE student 
   location         : "کرج"
   email            : hosein_shah_hoseni_mirash@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
-  google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  twitter: none
+  linkedin: hosien_shahhoseini
+  google_scholar: --
+  github: hosein_shahhoseini
+  instagram: hosein_fcb_10
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
