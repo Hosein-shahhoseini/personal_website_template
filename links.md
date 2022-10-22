@@ -9,8 +9,8 @@ comments: false
 ---
 
 
-* [Favorite Author](http://myfavoritauthor.com)
-* [Places I want to visit](http://iwanttovisit.com)
-* [My home city](http://homecity.com)
-* [My university](http://myuniversity.com)
+* [Favorite player](https://en.wikipedia.org/wiki/Lionel_Messi)
+* [Places I want to visit](https://en.wikipedia.org/wiki/Barcelona)
+* [My home city](https://en.wikipedia.org/wiki/Karaj)
+* [My university](http://www.iust.ac.ir/)
 

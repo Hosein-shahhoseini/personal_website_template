@@ -1,23 +1,21 @@
 ---
 layout: posts
-title: Test Post
+title: Learning Spanish
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+## This is where I learn Spanish
+**Duolingo**
+- This is Duolingo's website : 
+[Doulingo.com](https://www.duolingo.com/)
+- Also you can download it for android from :
+[Duo.android](https://play.google.com/store/apps/details?id=com.duolingo&hl=en&gl=US)
+- And if you are a IOS user :
+[Duo.IOS](https://apps.apple.com/us/app/duolingo-language-lessons/id570060128)
 
-[my favorite website](http://www.google.com)
+## Biography in Spanish:
+- hola, buenos días, mi nombre es Hosein y yo soy un niño, tengo dieciocho años y vivo en Iran. yo soy un studiante en la universidad y quiero ser ingeniero informático y estoy muy feliz de estar aqui. 
 
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
-
-
-
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+![alt text](../assets/images/duolingo.jpg "duolingo icon pic")
 
 ---
 **Test**: This is atest

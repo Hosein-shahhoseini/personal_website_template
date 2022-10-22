@@ -9,6 +9,8 @@ comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+* [Football](https://en.wikipedia.org/wiki/Football)
+* [Basketball](https://en.wikipedia.org/wiki/Basketball)
+* [language-learning] 
 
 
